@@ -1,0 +1,39 @@
+color in use:
+    $primary-color:#B60409;
+    $secondary-color: #232323;
+    $third-color: #A30408;
+    $font-color: #232323;
+    $white: #fff;
+    $black: #000000;
+
+Other color in use:
+    banner font color: #a7a7a7;
+    categories bg: #F8F8F8;
+    review bg: #f9f9f9;
+    review font color: #a8a8a8;
+    footer font color: #a7a7a7;
+
+fonts in use:
+    font-family: Poppins;
+    font-family: Poppins-Bold;
+    font-family: ENGR;
+    font-family: calist;
+    font-family: PlayfairDisplay;
+
+container size:
+    max-width: 1200px;
+    margin: 0px auto;
+    padding: 0px 15px;
+
+Between sections:
+    margin-bottom: 70px;
+
+
+icons taken from: fontawosome
+SVG images use in website
+icon attach with offline link there in no online contant for icons
+owl-carousel is use in website
+image in use: from original website
+original website link: https://demo.ishithemes.com/prestashop/PRS001/PRS001L09/en/
+
+other fonts available in extra folder

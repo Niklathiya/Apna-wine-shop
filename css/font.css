@@ -1,0 +1,28 @@
+@font-face{
+    font-family: Poppins-Black;
+    src: url("../font/Poppins-Black.ttf");
+}
+@font-face{
+    font-family: Poppins-Bold;
+    src: url("../font/Poppins-Bold.ttf");
+}
+@font-face{
+    font-family: Poppins-Thin;
+    src: url("../font/Poppins-Thin.ttf");
+}
+@font-face{
+    font-family: Poppins;
+    src: url("../font/Poppins-Regular.ttf");
+}
+@font-face{
+    font-family: ENGR;
+    src: url("../font/ENGR.TTF");
+}
+@font-face{
+    font-family: calist;
+    src: url("../font/calist.ttf");
+}
+@font-face{
+    font-family: PlayfairDisplay;
+    src: url("../font/PlayfairDisplay-ExtraBold.ttf");
+}
